@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # About me
 Hi there, nice to meet you! I am Justine, a first-year PhD candidate in the [Dialogue Modelling Group](https://dmg-illc.github.io/dmg/) at the Institute of Logic, Language and Computation ([ILLC](https://www.illc.uva.nl/)).
 My research focus is visually grounded language. Currently, I am working on improving multimodal (image and text) transformers' word understanding. 
