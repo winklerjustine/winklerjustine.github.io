@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# About me
+Hi there, nice to meet you! I am Justine, a first-year PhD candidate in the [Dialogue Modelling Group](https://dmg-illc.github.io/dmg/) at the Institute of Logic, Language and Computation ([ILLC](https://www.illc.uva.nl/)).
+My research focus is visually grounded language. Currently, I am working on improving multimodal (image and text) transformers' word understanding. 
+My supervisors are [Raquel Fernández](https://staff.fnwi.uva.nl/r.fernandezrovira/) and [Sandro Pezzelle](https://sandropezzelle.github.io/). 
 
-You can use the [editor on GitHub](https://github.com/winklerjustine/winklerjustine.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+My academic journey started with a B.Sc. in Cognitive Science at the [University of Osnabrück](https://www.uni-osnabrueck.de/startseite/). Through this transdisciplinary background, 
+I learned how to approach language-related research questions from the perspectives of different research areas such as Artificial Intelligence, Computational Linguistics,  Computing Science, or Neuroscience.
+Next, I expanded my understanding of how to evaluate and actively improve language processing algorithms with a M.Sc. in Artificial Intelligence at [Radboud University](https://www.ru.nl/english/). 
+As a personal challenge, I pursued the M.Sc. in Computing Science (Data Science specialization) at the same time.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Friends and teammates often describe me as very enthusiastic and cheerful. I am open and sociable, loving to learn new languages to communicate with you in your mother tongue.
 
-### Markdown
+# Publications 
+* Justine Winkler, Simon Brugman, Bas van Berkel, and Martha Larson. 2021. Exploring
+Inspiration Sets in a Data Programming Pipeline for Product Moderation. In Proceedings of
+The 4th Workshop on e-Commerce and NLP, pages 132-139
+[[Link]](https://aclanthology.org/2021.ecnlp-1.16.pdf)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* Justine Winkler, Ricardo Ramos Gameiro, Daniel Aeschbach, Peter König, and Christian
+Mühl. 2017. Sleep deprivation systematically changes eye movement characteristics. Poster
+presented at The 19th European Conference on Eye Movements (ECEM)
+[[Link]](https://elib.dlr.de/114832/)
 
-```markdown
-Syntax highlighted code block
+# Contact 
+Feel free to reach out via mail: j[dot]winkler[at]uva[dot]nl! 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/winklerjustine/winklerjustine.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+I'm looking forward to getting to know you!
